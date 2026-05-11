@@ -25,7 +25,9 @@ Deployed using GitHub Pages with gh-pages package.
 - Blank page → Added base path in vite.config.js
 
 ## 📸 Screenshots
-<img width="1895" height="945" alt="image" src="https://github.com/user-attachments/assets/8713639e-5e01-4222-ad5c-bdb0c3b9814d" />
-![Uploading image.png…]()
+<img width="1905" height="955" alt="image" src="https://github.com/user-attachments/assets/02801237-eaaf-46aa-9229-209f75efdcb2" />
+<img width="1895" height="945" alt="image" src="https://github.com/user-attachments/assets/bf5e177f-447a-450d-b655-236d8046d2a2" />
+
+
 
 
